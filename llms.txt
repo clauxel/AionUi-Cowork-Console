@@ -1,0 +1,11 @@
+# AionUi Cowork Console
+
+AionUi Cowork Console is a SaaS workspace for AionUi.
+
+Website: https://aionuicowork.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: AionUi
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
